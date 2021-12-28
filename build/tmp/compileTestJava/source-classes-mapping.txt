@@ -1,10 +1,16 @@
-com/kodilla/patterns2/facade/ShopServiceTestSuite.java
- com.kodilla.patterns2.facade.ShopServiceTestSuite
-com/kodilla/KodillaTestApplication.java
- com.kodilla.KodillaTestApplication
-com/kodilla/patterns2/decorator/taxiportal/TaxiOrderTestSuite.java
- com.kodilla.patterns2.decorator.taxiportal.TaxiOrderTestSuite
 com/kodilla/patterns2/decorator/pizza/PizzaOrderTestSuite.java
  com.kodilla.patterns2.decorator.pizza.PizzaOrderTestSuite
+com/kodilla/patterns2/facade/ShopServiceTestSuite.java
+ com.kodilla.patterns2.facade.ShopServiceTestSuite
+com/kodilla/patterns2/decorator/taxiportal/TaxiOrderTestSuite.java
+ com.kodilla.patterns2.decorator.taxiportal.TaxiOrderTestSuite
 com/kodilla/patterns2/aop/calculator/CalculatorTestSuite.java
  com.kodilla.patterns2.aop.calculator.CalculatorTestSuite
+com/kodilla/patterns2/observer/forum/ForumTopicTestSuite.java
+ com.kodilla.patterns2.observer.forum.ForumTopicTestSuite
+com/kodilla/KodillaTestApplication.java
+ com.kodilla.KodillaTestApplication
+com/kodilla/patterns2/adapter/company/SalaryAdapterTestSuite.java
+ com.kodilla.patterns2.adapter.company.SalaryAdapterTestSuite
+com/kodilla/patterns2/observer/homework/TaskTestSuite.java
+ com.kodilla.patterns2.observer.homework.TaskTestSuite

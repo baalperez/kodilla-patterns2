@@ -6,12 +6,18 @@ com/kodilla/patterns2/decorator/taxiportal/TaxiNetworkOrderDecorator.java
  com.kodilla.patterns2.decorator.taxiportal.TaxiNetworkOrderDecorator
 com/kodilla/patterns2/decorator/taxiportal/UberNetworkOrderDecorator.java
  com.kodilla.patterns2.decorator.taxiportal.UberNetworkOrderDecorator
-com/kodilla/patterns2/decorator/pizza/ExtraSauceDecorator.java
- com.kodilla.patterns2.decorator.pizza.ExtraSauceDecorator
+com/kodilla/patterns2/aop/calculator/Calculator.java
+ com.kodilla.patterns2.aop.calculator.Calculator
 com/kodilla/patterns2/decorator/taxiportal/BasicTaxiOrder.java
  com.kodilla.patterns2.decorator.taxiportal.BasicTaxiOrder
+com/kodilla/patterns2/observer/forum/ForumUser.java
+ com.kodilla.patterns2.observer.forum.ForumUser
 com/kodilla/patterns2/decorator/taxiportal/ExpressDecorator.java
  com.kodilla.patterns2.decorator.taxiportal.ExpressDecorator
+com/kodilla/patterns2/facade/Order.java
+ com.kodilla.patterns2.facade.Order
+com/kodilla/patterns2/facade/api/ItemDto.java
+ com.kodilla.patterns2.facade.api.ItemDto
 com/kodilla/patterns2/decorator/taxiportal/AbstractTaxiOrderDecorator.java
  com.kodilla.patterns2.decorator.taxiportal.AbstractTaxiOrderDecorator
 com/kodilla/patterns2/facade/api/OrderDto.java
@@ -20,8 +26,16 @@ com/kodilla/patterns2/decorator/pizza/ExtraCheeseDecorator.java
  com.kodilla.patterns2.decorator.pizza.ExtraCheeseDecorator
 com/kodilla/patterns2/decorator/taxiportal/VipCarDecorator.java
  com.kodilla.patterns2.decorator.taxiportal.VipCarDecorator
+com/kodilla/patterns2/aop/calculator/Watcher.java
+ com.kodilla.patterns2.aop.calculator.Watcher
+com/kodilla/patterns2/observer/forum/JavaHelpForumTopic.java
+ com.kodilla.patterns2.observer.forum.JavaHelpForumTopic
 com/kodilla/patterns2/decorator/pizza/BasicPizzaOrder.java
  com.kodilla.patterns2.decorator.pizza.BasicPizzaOrder
+com/kodilla/patterns2/observer/forum/Observer.java
+ com.kodilla.patterns2.observer.forum.Observer
+com/kodilla/patterns2/decorator/pizza/ExtraSauceDecorator.java
+ com.kodilla.patterns2.decorator.pizza.ExtraSauceDecorator
 com/kodilla/patterns2/facade/ProductService.java
  com.kodilla.patterns2.facade.ProductService
 com/kodilla/patterns2/facade/Authenticator.java
@@ -30,6 +44,8 @@ com/kodilla/patterns2/decorator/pizza/AbstractPizzaOrderDecorator.java
  com.kodilla.patterns2.decorator.pizza.AbstractPizzaOrderDecorator
 com/kodilla/patterns2/decorator/pizza/ExtraHamDecorator.java
  com.kodilla.patterns2.decorator.pizza.ExtraHamDecorator
+com/kodilla/patterns2/observer/forum/Observable.java
+ com.kodilla.patterns2.observer.forum.Observable
 com/kodilla/patterns2/facade/api/OrderProcessingException.java
  com.kodilla.patterns2.facade.api.OrderProcessingException
 com/kodilla/patterns2/facade/api/OrderFacade.java
@@ -38,21 +54,41 @@ com/kodilla/patterns2/decorator/pizza/ExtraMushroomsDecorator.java
  com.kodilla.patterns2.decorator.pizza.ExtraMushroomsDecorator
 com/kodilla/patterns2/decorator/taxiportal/ChildSeatDecorator.java
  com.kodilla.patterns2.decorator.taxiportal.ChildSeatDecorator
+com/kodilla/KodillaApplication.java
+ com.kodilla.KodillaApplication
 com/kodilla/patterns2/decorator/taxiportal/TaxiOrder.java
  com.kodilla.patterns2.decorator.taxiportal.TaxiOrder
+com/kodilla/patterns2/facade/api/ApiWatcher.java
+ com.kodilla.patterns2.facade.api.ApiWatcher
 com/kodilla/patterns2/facade/ShopService.java
  com.kodilla.patterns2.facade.ShopService
 com/kodilla/patterns2/decorator/pizza/PizzaOrder.java
  com.kodilla.patterns2.decorator.pizza.PizzaOrder
-com/kodilla/KodillaApplication.java
- com.kodilla.KodillaApplication
-com/kodilla/patterns2/facade/api/ItemDto.java
- com.kodilla.patterns2.facade.api.ItemDto
-com/kodilla/patterns2/facade/Order.java
- com.kodilla.patterns2.facade.Order
-com/kodilla/patterns2/aop/calculator/Calculator.java
- com.kodilla.patterns2.aop.calculator.Calculator
-com/kodilla/patterns2/facade/api/ApiWatcher.java
- com.kodilla.patterns2.facade.api.ApiWatcher
-com/kodilla/patterns2/aop/calculator/Watcher.java
- com.kodilla.patterns2.aop.calculator.Watcher
+com/kodilla/patterns2/observer/forum/ForumTopic.java
+ com.kodilla.patterns2.observer.forum.ForumTopic
+com/kodilla/patterns2/observer/forum/JavaToolsForumTopic.java
+ com.kodilla.patterns2.observer.forum.JavaToolsForumTopic
+com/kodilla/patterns2/adapter/company/oldhrsystem/SalaryCalculator.java
+ com.kodilla.patterns2.adapter.company.oldhrsystem.SalaryCalculator
+com/kodilla/patterns2/adapter/company/SalaryAdaptee.java
+ com.kodilla.patterns2.adapter.company.SalaryAdaptee
+com/kodilla/patterns2/adapter/company/newhrsystem/SalaryProcessor.java
+ com.kodilla.patterns2.adapter.company.newhrsystem.SalaryProcessor
+com/kodilla/patterns2/adapter/company/newhrsystem/CompanySalaryProcessor.java
+ com.kodilla.patterns2.adapter.company.newhrsystem.CompanySalaryProcessor
+com/kodilla/patterns2/adapter/company/newhrsystem/Employee.java
+ com.kodilla.patterns2.adapter.company.newhrsystem.Employee
+com/kodilla/patterns2/adapter/company/SalaryAdapter.java
+ com.kodilla.patterns2.adapter.company.SalaryAdapter
+com/kodilla/patterns2/adapter/company/oldhrsystem/Workers.java
+ com.kodilla.patterns2.adapter.company.oldhrsystem.Workers
+com/kodilla/patterns2/observer/homework/Mentor.java
+ com.kodilla.patterns2.observer.homework.Mentor
+com/kodilla/patterns2/observer/homework/Student.java
+ com.kodilla.patterns2.observer.homework.Student
+com/kodilla/patterns2/observer/homework/Task.java
+ com.kodilla.patterns2.observer.homework.Task
+com/kodilla/patterns2/observer/homework/Observable.java
+ com.kodilla.patterns2.observer.homework.Observable
+com/kodilla/patterns2/observer/homework/Observer.java
+ com.kodilla.patterns2.observer.homework.Observer
